@@ -55,10 +55,6 @@ A colorful, interactive rule-based chatbot built with **Streamlit** — upgraded
 - [Streamlit](https://streamlit.io/) — chat UI framework (`st.chat_message`, `st.chat_input`)
 - Pure Python rule-based matching (no external NLP libraries)
 
-## 📸 Preview
-
-Add a screenshot or GIF of the chat in action here — great for GitHub and LinkedIn posts!
-
 ## 📄 License
 
 Free to use and modify for learning and personal projects.
